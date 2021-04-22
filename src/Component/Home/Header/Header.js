@@ -53,11 +53,11 @@ class Header extends react.Component {
 
           <div class="nav-content">
             <ul class="tabs tabs-transparent">
-              <li class=""><a href="#MEN"><b>MEN</b></a></li>
-              <li class=""><a class="ACCESSORIES" href="#ACCESSORIES"><b>ACCESSORIES</b></a></li>
-              <li class=""><a href="#OUTLETS"><b>OUTLETS</b></a></li>
-              <li class=""><a href="#EARTHMOVERS"><b>EARTHMOVERS</b></a></li>
-              <li class=""><a href="#SALE"><b>SALE</b></a></li>
+            <li class=""> <Link to="/MEN">MEN</Link></li>
+        <li class=""> <Link to="/ACCESSORIES">ACCESSORIES</Link></li>
+        <li class=""> <Link to="/Outlets">OUTLETS</Link></li>
+        <li class=""> <Link to="/Earth">EARTHMOVERS</Link></li>
+        <li class=""> <Link to="/SALE">SALE</Link></li>    
             </ul>
           </div>
         </nav>

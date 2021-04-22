@@ -1,0 +1,34 @@
+#bg{
+    background-color: black;
+    
+}
+
+
+.footer  ul  {
+  display: grid;
+  grid-template-columns: repeat(3, auto);
+  }
+
+ .right{
+     margin-right: 200px;
+ }
+
+.col{
+   
+    column-count: 0;
+}
+.logo{
+
+    display: inline-flex;
+    margin-left: 300px;
+}
+::placeholder {
+    color: black;
+    font-size: 16px;
+}
+#email-input{
+    width: 200px ;
+    height: 30px;
+     border: 1 px solid gray;
+      background-color: gray;
+}

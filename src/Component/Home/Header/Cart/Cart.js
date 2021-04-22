@@ -2,7 +2,7 @@ import react from 'react'
 class Cart extends react.Component{
     render(){
         return(
-        <div><h1>Cart</h1></div>
+        <div>This is cart</div>
         )
     }
 }

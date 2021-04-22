@@ -13,6 +13,7 @@ a:hover {
   color: yellow;
   background-color: transparent;
   text-decoration: none;
+  
 }
 a:active {
   color:yellow;
@@ -52,7 +53,7 @@ margin:  20px;
 
 ::placeholder {
   color: black;
-  font-size: 20px;
+  font-size: 18px;
 }
 p:visited{
    color: yellow;
@@ -62,9 +63,6 @@ p:visited{
  font-size: 8px;
 
 }
-
-
-
 
 
 
